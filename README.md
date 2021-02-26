@@ -1,1 +1,1 @@
-# smartstore
+# 📌 Isomorphic SPA React
